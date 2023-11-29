@@ -27,7 +27,7 @@ The project structure includes:
 
 - `data/`: Contains the dataset used for training and testing the model.
 - `animal_recognition_model.py`: Holds the trained machine learning model.
-- `ModelTrainer`: Includes the source code of model builder.
+- `ModelTrainer.py`: Includes the source code of model builder.
 - `projectAI.py`: Includes the source code from animal recognition to predict.
 - `requirements.txt`: Lists all the dependencies required to run the project.
 
