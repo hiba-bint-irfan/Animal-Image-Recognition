@@ -34,6 +34,7 @@ The project structure includes:
 ## Usage
 - Install all the libraries
 - Run projectAI.py in VS code
+
 - Click on select image
 ![first_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/b89cad63-c75a-43a4-a8bc-94b5a5be3a1e)
 
