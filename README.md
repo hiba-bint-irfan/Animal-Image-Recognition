@@ -36,12 +36,15 @@ The project structure includes:
 - Run projectAI.py in VS code
 
 - Click on select image
+
 ![first_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/b89cad63-c75a-43a4-a8bc-94b5a5be3a1e)
 
 - Now select image from your PC to predict
+
 ![second_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/f949b6fc-f13e-43d6-9809-ba7a60807cf0)
 
-- Now the predicted answer and the confidence level is shown  
+- Now the predicted answer and the confidence level is shown
+  
 ![final_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/7287fc2d-ea06-4a71-9a44-777dfa31f5cd)
 
 ## Why use CNN Model?
