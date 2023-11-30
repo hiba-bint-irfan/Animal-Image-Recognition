@@ -41,7 +41,8 @@ The project structure includes:
 
 - Now select image from your PC to predict
 
-![second_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/f949b6fc-f13e-43d6-9809-ba7a60807cf0)
+![second_image](https://github.com/hiba-bint-irfan/Animal-Image-Recognition/assets/113757992/1d5ee8dd-eca5-451e-b9dc-dc7118581eba)
+
 
 - Now the predicted answer and the confidence level is shown
   
